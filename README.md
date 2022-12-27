@@ -1,1 +1,1 @@
-PODLGĄD PROJEKTU: https://nikolamat99.github.io/KARTY3/
+PROJECT PREVIEW: https://nikolamat99.github.io/KARTY3/
